@@ -1,0 +1,7 @@
+{
+  "name": "ناما للجمال | Nama Beauty - Kuwait",
+  "description": "متجر ناما للجمال الرائد في دولة الكويت - مكملات الجمال والعناية السريرية الفاخرة للشعر، البشرة، والنضارة الحيوية مع خدمة الدفع عند الاستلام.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
